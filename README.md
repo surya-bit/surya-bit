@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @surya-bit
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Deep Learning
+- I am doing my master's in Data Science at UW-Madison.
+- 👀 I’m interested in Data Science and Machine Learning and deep learning .
+- 🌱 I’m currently specializing Deep Learning.
 - 📫 How to reach me - suryamachani23562@gmail.com
 
 <!---
